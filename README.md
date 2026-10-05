@@ -40,9 +40,6 @@ Izvorni skup podataka preuzet je sa Kaggle platforme (**Students Performance in 
    - Kreiranje tabele činjenica (*FactStudentPerformance*) sa merama poput prosečnih bodova i prolaznosti.
    - Izgradnja OLAP kocke
 
----
-
-<Image src="image_agent_tag_14729701797601641691" alt="SSAS projekat i kreiranje kocke u Visual Studio okruženju" caption="Kreiranje SSAS analitičkog modela" />
 
 ---
 
